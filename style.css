@@ -19,7 +19,12 @@
 
 /* display background dark color on navbar scroll */
 .navbarScroll.navbarDark {
-    background-color: #5b5b5b;
+    background-color: #5b5b5bb0;
+}
+
+.nav-link:hover {
+    color: #ffffffcc;
+    text-decoration: underline;
 }
 
 /* hero background image */
@@ -44,15 +49,17 @@
     left: 50%;
     transform: translate(-50%, -50%);
     color: white;
+    background-color: rgba(25, 25, 112, 0.842);
+    border-top: white solid 1px;
+    border-bottom: white solid 1px;
 }
 
 /* about */
 .imageAboutPage {
     width: 100%;
-}
-.imageAboutPage {
     border-radius: 50%;
     box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
+    margin-top: -90px
 }
 
 /* skills */

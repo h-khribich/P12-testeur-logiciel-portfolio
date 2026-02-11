@@ -2,19 +2,19 @@
     {
         "image": "image1.png",
         "title": "Booki",
-        "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
-        "link": "#"
+        "text": "Booki est un projet de développement d'une application de réservation d'hébergements et d'activités touristiques. L'application permet aux utilisateurs de rechercher et de réserver des hébergements, des activités et des restaurants dans différentes destinations à travers le monde.",
+        "link": "https://h-khribich.github.io/P3/"
     },
     {
         "image": "image2.png",
         "title": "Mon Vieux grimoire",
-        "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
-        "link": "#"
+        "text": "Mon Vieux grimoire est un projet de développement d'une application de gestion de livres personnels. L'application permet aux utilisateurs de cataloguer leurs livres, de suivre leurs lectures et de partager leurs critiques avec une communauté de passionnés de lecture.",
+        "link": "https://hamzakhribich-12-11012022.pages.dev/"
     },
     {
         "image": "image3.png",
         "title": "Kasa",
-        "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
-        "link": "#"
+        "text": "Kasa est un projet de développement d'une application de location d'hébergements entre particuliers. L'application permet aux utilisateurs de rechercher et de réserver des hébergements uniques et authentiques dans différentes destinations à travers le monde, offrant ainsi une alternative aux hôtels traditionnels.",
+        "link": "https://hamzakhribich-11-19122021.pages.dev/"
     }
 ]
