@@ -19,7 +19,15 @@
 
 /* display background dark color on navbar scroll */
 .navbarScroll.navbarDark {
-    background-color: #5b5b5bb0;
+    background-color: #484848d6;
+}
+
+nav.navbar {
+  background-color: rgba(13, 8, 108, .8);
+}
+
+nav.navbar a.nav-link {
+    color: white!important;
 }
 
 .nav-link:hover {
