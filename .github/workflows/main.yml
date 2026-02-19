@@ -14,6 +14,7 @@ jobs:
       actions: read
       contents: read
       security-events: write
+      packages: read
 
   # Appelle le déploiement uniquement si security est OK
   deploy:
