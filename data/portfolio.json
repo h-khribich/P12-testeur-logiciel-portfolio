@@ -1,18 +1,18 @@
 [
     {
-        "image": "image1.png",
+        "image": "image1-1.webp",
         "title": "Booki",
         "text": "Booki est un projet de développement d'une application de réservation d'hébergements et d'activités touristiques. L'application permet aux utilisateurs de rechercher et de réserver des hébergements, des activités et des restaurants dans différentes destinations à travers le monde.",
         "link": "https://h-khribich.github.io/P3/"
     },
     {
-        "image": "image2.png",
-        "title": "Mon Vieux grimoire",
-        "text": "Mon Vieux grimoire est un projet de développement d'une application de gestion de livres personnels. L'application permet aux utilisateurs de cataloguer leurs livres, de suivre leurs lectures et de partager leurs critiques avec une communauté de passionnés de lecture.",
+        "image": "sportsee.webp",
+        "title": "SportSee",
+        "text": "SportSee est un projet de développement d'une application de suivi nutitionnel et sportif créée avec React et Recharts pour disposer de courbes et graphiques dynamiques et modernes.",
         "link": "https://hamzakhribich-12-11012022.pages.dev/"
     },
     {
-        "image": "image3.png",
+        "image": "image3.webp",
         "title": "Kasa",
         "text": "Kasa est un projet de développement d'une application de location d'hébergements entre particuliers. L'application permet aux utilisateurs de rechercher et de réserver des hébergements uniques et authentiques dans différentes destinations à travers le monde, offrant ainsi une alternative aux hôtels traditionnels.",
         "link": "https://hamzakhribich-11-19122021.pages.dev/"
